@@ -41,29 +41,15 @@ harsh-portfolio/
 ├─ package.json
 └─ README.md
 
-yaml
-Copy code
-
 ---
 
 ## Run locally (development)
 1. Install dependencies:
 ```bash
 npm install
-Start dev server:
 
-bash
-Copy code
 npm run dev
-Open: http://localhost:5173/
 
-Build for production:
-
-bash
-Copy code
 npm run build
-Preview production build locally:
 
-bash
-Copy code
 npm run preview
